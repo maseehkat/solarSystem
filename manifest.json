@@ -1,0 +1,10 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "Super Racer 2000",
+  "short_name": "Racer2K",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "aliceblue",
+  "background_color": "red"
+}
